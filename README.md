@@ -37,7 +37,6 @@
 ---
 
 
----
 
 # 💻 Tech Stack
 
@@ -95,7 +94,6 @@
 
 
 
----
 ## 👾 Pac-Man Contribution Graph
 
 <picture>
@@ -130,15 +128,6 @@
 </p>
 
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SonalShukla-projects&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
 
 ---
 
