@@ -1,16 +1,219 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sonal Shukla</h1>
 
-<!--
-**SonalShukla-projects/SonalShukla-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Developer | 📊 Data Analytics Enthusiast | 🤖 Machine Learning Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner;Open+to+Internship+Opportunities" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about building real-world software using modern technologies.
+
+🌱 Currently learning
+
+- MERN Stack
+- Data Structures & Algorithms
+- Machine Learning
+- System Design
+
+🎯 Looking for
+
+- Software Engineering Internship
+- Full Stack Developer Internship
+- Machine Learning Internship
+- Data Analyst Internship
+
+⚡ Fun Fact
+
+> I love solving coding problems and building projects that solve real-world problems.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sonal-shukla-b9a459289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sonalshukla3560@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SonalShukla-projects">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Based Code Plagiarism | Detects similarities in source code using Python |
+| 📈 Bankruptcy Prediction | Machine Learning model for financial risk prediction |
+| 🏥 Healthcare Data Warehouse | OLAP & Business Intelligence Analysis |
+| ⚡ Electric Button Animation | HTML & CSS futuristic animation |
+| 💻 LeetCode Solutions | Daily DSA practice in Python |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonalShukla-projects&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonalShukla-projects&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SonalShukla-projects&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Coding
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonalShukla-projects&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SonalShukla-projects&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✔ MERN Stack
+
+✔ Machine Learning
+
+✔ DSA
+
+✔ System Design
+
+✔ Open Source
+
+---
+
+# 🎯 2026 Goals
+
+🚀 Crack a Software Engineering Internship
+
+🚀 Build 10+ Full Stack Projects
+
+🚀 Solve 500+ LeetCode Problems
+
+🚀 Contribute to Open Source
+
+🚀 Become Placement Ready
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:sonalshukla3560@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sonal-shukla-b9a459289">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SonalShukla-projects&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+⭐ From <a href="https://github.com/SonalShukla-projects">Sonal Shukla</a>
+
+</p>
