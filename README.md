@@ -37,49 +37,6 @@
 ---
 
 
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=express" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
-
-</p>
-
----
-
 # 📌 Featured Projects
 
 | Project | Description |
@@ -131,33 +88,50 @@
 
 ---
 
-# 📚 Currently Learning
 
-✔ MERN Stack
+# 💻 Tech Stack
 
-✔ Machine Learning
+<p align="center">
 
-✔ DSA
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-✔ System Design
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
 
-✔ Open Source
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
+</p>
 
 ---
 
-# 🎯 2026 Goals
 
-🚀 Crack a Software Engineering Internship
-
-🚀 Build 10+ Full Stack Projects
-
-🚀 Solve 500+ LeetCode Problems
-
-🚀 Contribute to Open Source
-
-🚀 Become Placement Ready
-
----
 
 ## 🌐 Connect With Me
 
