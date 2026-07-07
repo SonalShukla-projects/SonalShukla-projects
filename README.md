@@ -125,19 +125,11 @@
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsYjhuOWlyZzFuenduMzJib2Q2cTEyd3dzejdjbW9xYXFrMHpociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="450"/>
 
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonalShukla-projects&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
