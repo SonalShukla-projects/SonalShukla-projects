@@ -49,45 +49,13 @@
 
 ---
 
-
-
-## 👾 Pac-Man Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SonalShukla-projects/SonalShukla-projects/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SonalShukla-projects/SonalShukla-projects/output/pacman-contribution-graph.svg">
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/SonalShukla-projects/SonalShukla-projects/output/pacman-contribution-graph.svg">
-</picture>
-
----
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SonalShukla-projects&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
-
 <p align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsYjhuOWlyZzFuenduMzJib2Q2cTEyd3dzejdjbW9xYXFrMHpociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="450"/>
 
 </p>
 
-
-
 ---
-
 
 # 💻 Tech Stack
 
